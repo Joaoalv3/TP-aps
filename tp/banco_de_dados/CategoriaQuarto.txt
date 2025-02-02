@@ -1,0 +1,4 @@
+1,luxo,100
+2,family,90
+107,lixo,5
+666,inferno,213
